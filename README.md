@@ -1,5 +1,7 @@
+[![GitHub Actions Demo](https://github.com/dokind/my-website/actions/workflows/github-actions-demo.yml/badge.svg?branch=main)](https://github.com/dokind/my-website/actions/workflows/github-actions-demo.yml)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-https://github.com/dokind/my-website/actions/workflows/github-actions-demo.yaml/badge.svg
+
 ## Getting Started
 
 ## Namsrai
