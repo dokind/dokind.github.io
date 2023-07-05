@@ -2,6 +2,8 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 https://github.com/dokind/my-website/actions/workflows/github-actions-demo/badge.svg
 ## Getting Started
 
+## Namsrai
+
 First, run the development server:
 
 ```bash
