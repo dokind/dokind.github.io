@@ -1,5 +1,6 @@
 import './globals.css'
 import { Inter } from 'next/font/google'
+import Head from 'next/head'
 
 const inter = Inter({ subsets: ['latin'] })
 
@@ -15,10 +16,16 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>\
-      <footer>
-        <p>&copy; 2022 My Application</p>
-      </footer>
+      <Head>
+        <title>Namsrai Khatanbaatar</title>
+        <link rel="icon" href="/favicon.ico" />
+      </Head>
+      <body className={inter.className}>{children}
+        <footer className=' bg-black flex justify-center'>
+          <p className=' text-caption'>&copy; 2023</p>
+        </footer>
+      </body>
+
     </html>
   )
 }
